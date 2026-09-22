@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Intelligence",
+  "description": "Action-oriented sales analytics and store performance intelligence dashboard for store and regional managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
